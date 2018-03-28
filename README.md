@@ -26,15 +26,15 @@ This book assumes a medium-level knowledge of the Windows operating system and b
 
 The minimum requirements to install Visual Studio and Xamarin are as follows:
 
-##Windows requirements: Windows 7
-##Android 6.0/API level 23
+*Windows requirements: Windows 7
+*Android 6.0/API level 23
 
 
 The following are the hardware requirements for Android Emulator:
 
-##Hyper-V support
-##4 GB or more RAM
-##64-bit version of Windows OS
+*Hyper-V support
+*4 GB or more RAM
+*64-bit version of Windows OS
 
 Note that since the Android SDK Emulator is prohibitively slow without hardware acceleration, Intel's Hardware Accelerated Execution Manager (HAXM) is the recommended way to drastically improve the performance of the Android Emulator.
 
