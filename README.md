@@ -8,7 +8,7 @@ By the end of this book, you will be well-versed with Mobile DevOps techniques, 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-Chapter 1 to 3 doesn't contain code files
+Chapters 01 to 03 doesn't contain code files
 
 The code will look like the following:
 ```
